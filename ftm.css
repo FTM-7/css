@@ -5,6 +5,9 @@
 * {
   font-family: m !important;
 }
+.bg {
+  background: url(bg.jpg)no-repeat center/cover fixed;
+}
 .img-center {
     margin-left: auto;
     margin-right: auto;
